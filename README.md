@@ -12,6 +12,15 @@ This project is a booking chatbot web application built with Python, Flask, Open
 - **Automated Reminders**: Sends email and popup reminders to attendees.
 - **Dynamic Slot Selection**: Presents users with available slots to choose from in real-time.
 
+
+## Key Steps for Google Credentials Setup:
+1. **Google Cloud Console**: Guide to creating a new project and enabling the Google Calendar API.
+2. **OAuth 2.0 Credentials**: Instructions on how to generate and download the `credentials.json` file.
+3. **First-Time Run**: The application will automatically generate a `token.json` file for authentication on the first run.
+
+This ensures the users will be able to set up the required credentials and get the app running smoothly!
+
+
 ## Installation and Setup
 
 1. **Clone the Repository**:
